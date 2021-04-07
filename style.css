@@ -1,0 +1,12 @@
+.photo {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: black;
+}
+
+.text {
+    color: white;
+}
+
+.radius {
+    border-radius: 4%;
+}
